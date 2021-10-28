@@ -2,9 +2,9 @@
 
 ## I'm a Developer👨🏻‍💻 , Hobby Electronics⚡ and Dungeon Master🎲
 
-- 🌱 I'm trying to learn everything, especially swift.
+- 🌱 I'm trying to learn everything, especially swift & IOS SDK.
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love play FRP games and weight lifting
 
 ### Connect with me:
