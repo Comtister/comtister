@@ -17,6 +17,7 @@
 <img align="left" width="44px" src="https://user-images.githubusercontent.com/34386489/139310767-6a57e2ce-6712-4ef1-9091-d25532995e9c.png">
 <img align="left" width="44px" src="https://user-images.githubusercontent.com/34386489/139310941-4155aa8c-3422-4d80-afa1-9d20e9581e18.png">
 <img align="left" width="44px" src="https://user-images.githubusercontent.com/34386489/139310982-a285df62-430f-4f76-80c0-27ce53212243.png">
+<img align="left" width="44px" src="https://user-images.githubusercontent.com/34386489/139313162-cd6c07da-96e1-4c73-935c-7b39164ce0c8.jpeg">
 <img align="left" width="44px" src="https://user-images.githubusercontent.com/34386489/139311139-c06ac684-d7ac-4c67-b860-c8b59982508f.png">
 <img align="left" width="44px" src="https://user-images.githubusercontent.com/34386489/139312056-5c4e4d97-ab01-4d06-9de2-a8a706f2f3bf.png">
 <img align="left" width="44px" src="https://user-images.githubusercontent.com/34386489/139312106-1b58ac91-e6e4-437e-a2be-4a49cab14690.png">
@@ -27,8 +28,10 @@
 
 <br />
 
+
 ### Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=comtister&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=comtister)
+
 <!--
 **Comtister/comtister** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
